@@ -17,4 +17,4 @@ import { env } from 'src/env'
     }),
   ],
 })
-export class DataBaseModule { }
+export class DataBaseModule {}
